@@ -85,6 +85,7 @@ body {
     padding: 0.75rem;
     font-weight: var(--fw-semi-bold);
     text-decoration: none;
+    transition: all 0.5s;
 }
 
 #links > *:hover {
