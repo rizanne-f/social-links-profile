@@ -15,10 +15,20 @@
     --fw-bold: 700;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: Inter, sans-serif;
     background-color: var(--Grey-900);
     color: var(--White);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 #social-links-profile {
