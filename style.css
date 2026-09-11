@@ -4,7 +4,7 @@
 }
 
 :root {
-    --Green: hsl(184, 84%, 56%);
+    --Aqua: hsl(184, 84%, 56%);
     --White: hsl(0, 0%, 100%);
     --Grey-700: hsl(0, 0%, 20%);
     --Grey-800: hsl(0, 0%, 12%);
@@ -17,4 +17,20 @@
 
 body {
     font-family: Inter, sans-serif;
+    background-color: var(--Grey-900);
+    color: var(--White);
+}
+
+#social-links-profile {
+    background-color: var(--Grey-800);
+}
+
+.user-location {
+    color: var(--Aqua);
+}
+
+button {
+    background-color: var(--Grey-700);
+    border: 0;
+    color: var(--White);
 }
