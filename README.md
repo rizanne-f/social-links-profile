@@ -14,6 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
   - [Author](#author)
 
 ## Overview
@@ -72,6 +73,10 @@ This time, I did not rely on the Figma file, I mainly guessed the  styling based
 ### Continued development
 
 Since the layout for the challenges I currently have are simple, I relied more on using flexbox. I think I am comfortable with flex now, but I am looking forward to using CSS grid to style more complex layouts in the near future.
+
+### Useful resources
+
+- [Document should have one main landmark](https://dequeuniversity.com/rules/axe/4.10/landmark-one-main?application=axeAPI) - This information was new to me. I only found out about this after checking the Report. I will keep this in mind for the next challenges.
 
 ## Author
 
